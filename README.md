@@ -1,6 +1,6 @@
 <div align="center">
 
-# 🔢 Character Counter
+# 🔤 Character Counter
 
 ### Use Character Counter free on ToolAdda — quick, accurate, and browser-based.
 
